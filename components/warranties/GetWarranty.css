@@ -1,0 +1,10 @@
+.m-8fb7ebe7:disabled,
+.m-8fb7ebe7[data-disabled] {
+    color: #080808 !important;
+    cursor: text !important;
+    opacity: .8 !important;
+}
+
+.m-8fb7ebe7 {
+    border: none !important;
+}

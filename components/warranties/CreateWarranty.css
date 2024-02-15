@@ -1,0 +1,8 @@
+/* Add this CSS to your stylesheet */
+.file-input-filename {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 90%;
+    /* Adjust this value as needed */
+}
